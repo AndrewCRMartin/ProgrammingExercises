@@ -203,8 +203,7 @@ line.)
   or a FASTA sequence file
   
 
-
-### Part 2d
+### Part 2e
 
 - Write a program that takes an amino acid identifier (e.g. A20 - the
   chain and the amino acid number), a PDB file and a distance from the
